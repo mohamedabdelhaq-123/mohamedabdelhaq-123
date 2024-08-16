@@ -13,6 +13,6 @@ engineer in a prestigious company, where he can use his knowledge and abilities 
 
 ## My Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelhaq-123&tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelhaq-123&onedark)
 
 Thanks for Visiting! 😊
