@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Abdelhaq 👋 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-abdelhaq)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/mohamed_abdelh15))
+[![HackerRank](https://img.shields.io/badge/Hackerrank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/mohamed_abdelh15)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mohamed.abdelhaq99@gmail.com)
 
 ## About Me 🎓
@@ -13,6 +13,6 @@ engineer in a prestigious company, where he can use his knowledge and abilities 
 
 ## My Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelhaq-123&layout=compact)
 
 Thanks for Visiting! 😊
