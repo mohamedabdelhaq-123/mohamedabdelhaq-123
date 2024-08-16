@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Abdelhaq 👋 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-abdelhaq))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-abdelhaq)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/mohamed_abdelh15))
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mohamed.abdelhaq99@gmail.com)
 
