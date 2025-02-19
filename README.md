@@ -7,7 +7,7 @@
 ## About Me 🎓
 
 Mohamed, an undergraduate Mechatronics Engineer, is passionate about creating cutting-edge technologies and is ready to
-learn more about various subjects, particularly embedded systems. He participates in student activities, workshops, and
+learn more about various subjects. He participates in student activities, workshops, and
 events to hone his soft skills. He hopes to obtain experience through internships and land a job as an embedded systems
 engineer in a prestigious company, where he can use his knowledge and abilities while always learning new things.
 
